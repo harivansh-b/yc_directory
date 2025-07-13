@@ -1,9 +1,14 @@
-  
- [![Project Banner](https://github.com/user-attachments/assets/471e2baa-8781-43b8-aaed-62e313d03e99)](https://youtu.be/Zq5fmkH0T78?feature=shared)   
- 
+# YC Directory
 
-![typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=react&color=3178C6) ![nextdotjs](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000) ![tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4) ![sanity](https://img.shields.io/badge/-Sanity-black?style=for-the-badge&logoColor=white&logo=sanity&color=F03E2F)
+[![Project Banner](https://github.com/user-attachments/assets/471e2baa-8781-43b8-aaed-62e313d03e99)](https://youtu.be/Zq5fmkH0T78?feature=shared)
 
+A **minimalistic, dynamic startup pitch directory platform** built with React 19, Next.js 15, and Sanity, enabling founders to **share and browse startup ideas seamlessly** with GitHub login and a clean design.
+
+![typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge\&logoColor=white\&logo=react\&color=3178C6) ![nextdotjs](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge\&logoColor=white\&logo=nextdotjs\&color=000000) ![tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge\&logoColor=white\&logo=tailwindcss\&color=06B6D4) ![sanity](https://img.shields.io/badge/-Sanity-black?style=for-the-badge\&logoColor=white\&logo=sanity\&color=F03E2F)
+
+[🚀 **View Live**](https://yc-directory-self-one.vercel.app/) | [🎥 **Tutorial Walkthrough**](https://youtu.be/Zq5fmkH0T78?feature=shared)
+
+---
 ### Startup Directory Platform
 
 Build this project step by step with our detailed tutorial on [**JavaScript Mastery**](https://www.youtube.com/@javascriptmastery/videos) YouTube. Join the JSM family!
@@ -106,4 +111,5 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## 🔗 Assets
 
-*   Fonts and Assets used in the project can be found [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
+* [🚀 Live Deployment](https://yc-directory-self-one.vercel.app/)
+* [📂 Fonts and Design Assets](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
